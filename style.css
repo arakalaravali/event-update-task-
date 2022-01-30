@@ -1,0 +1,19 @@
+#div2-1{
+    text-align:center;
+    justify-content: right;
+    
+}
+.large{
+text-align: center;
+border-style:solid;
+}
+.row{
+    text-align: center;
+    border-style:solid;
+    padding-left: 45px;
+    
+    }
+    .image{
+    margin-top: 40px;
+    }
+    
